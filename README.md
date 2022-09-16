@@ -1,4 +1,4 @@
-### Hello, my name is Liam and welcome to my GitHub! 👋
+### Hello, my name is Liam and welcome to my GitHub! 
 
 I have finished my 2nd year of Computer Engineering at the University of Waterloo and I'm planning to return for 3rd year in the winter. Thus, I am looking for summer 2023 co-op opportunities. 
 
