@@ -1,6 +1,6 @@
 ### Hello, my name is Liam and welcome to my GitHub! 
 
-I have finished my 2nd year of Computer Engineering at the University of Waterloo and I'm planning to return for 3rd year in the winter. Thus, I am looking for summer 2023 co-op opportunities. 
+I am a 2025 Computer Engineering graduate from the University of Waterloo (graduated 2025), and I currently work as a machine vision software developer at Arcturus Networks Inc. in Toronto, Canada. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiamMcArdle&layout=compact&show_icons=true&show_icons=true&theme=dark)
 
